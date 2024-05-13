@@ -1,0 +1,6 @@
+/home/aavash/RiderProjects/cSharpBasic/cSharpBasic/bin/Debug/cSharpBasic.exe
+/home/aavash/RiderProjects/cSharpBasic/cSharpBasic/bin/Debug/cSharpBasic.pdb
+/home/aavash/RiderProjects/cSharpBasic/cSharpBasic/obj/Debug/cSharpBasic.csproj.AssemblyReference.cache
+/home/aavash/RiderProjects/cSharpBasic/cSharpBasic/obj/Debug/cSharpBasic.csproj.CoreCompileInputs.cache
+/home/aavash/RiderProjects/cSharpBasic/cSharpBasic/obj/Debug/cSharpBasic.exe
+/home/aavash/RiderProjects/cSharpBasic/cSharpBasic/obj/Debug/cSharpBasic.pdb
