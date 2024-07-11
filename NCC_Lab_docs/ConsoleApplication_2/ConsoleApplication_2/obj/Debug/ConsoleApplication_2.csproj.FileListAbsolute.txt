@@ -1,0 +1,6 @@
+/home/aavash/RiderProjects/ConsoleApplication_2/ConsoleApplication_2/bin/Debug/ConsoleApplication_2.exe
+/home/aavash/RiderProjects/ConsoleApplication_2/ConsoleApplication_2/bin/Debug/ConsoleApplication_2.pdb
+/home/aavash/RiderProjects/ConsoleApplication_2/ConsoleApplication_2/obj/Debug/ConsoleApplication_2.csproj.AssemblyReference.cache
+/home/aavash/RiderProjects/ConsoleApplication_2/ConsoleApplication_2/obj/Debug/ConsoleApplication_2.csproj.CoreCompileInputs.cache
+/home/aavash/RiderProjects/ConsoleApplication_2/ConsoleApplication_2/obj/Debug/ConsoleApplication_2.exe
+/home/aavash/RiderProjects/ConsoleApplication_2/ConsoleApplication_2/obj/Debug/ConsoleApplication_2.pdb
